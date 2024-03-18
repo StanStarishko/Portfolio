@@ -1,4 +1,4 @@
-# This directory contains the Software Security Project files:
+## This directory contains the Software Security Project files:
 *  **Software_Security_Project.ipynb** is the project file itself
 *  **Testing Report.pdf** - this is a file containing a testing report
 
