@@ -11,8 +11,8 @@ It was completed in **Python** and demonstrates interaction with:
 *  **Google Maps API**
 *  **AWS Lambda** 
 *  **AWS S3**
-*  **Automated and manual testing**
 
 and the use of 
 *  **OOP** *and* **Test Driven Development**
+*  **Automated** *and* **Manual Testing**
 *  basic technologies for **Cyber Resilience** of applications
