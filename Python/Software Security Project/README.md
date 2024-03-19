@@ -10,6 +10,8 @@ Time spent on project completion: **5 days** and a total of about **24 hours**
 It was completed in **Python** and demonstrates interaction with: 
 *  **Google Maps API**
 *  **AWS Lambda** 
-*  **AWS S3** 
+*  **AWS S3**
+*  **Automated and manual testing**
+*  **OOP** *and* **Test Driven Development**
 
 and the use of basic technologies for **cyber-resilience** of applications
