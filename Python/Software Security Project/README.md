@@ -1,4 +1,5 @@
 ## This directory contains the Software Security Project files:
+*  **AWS_lambda_S3.zip** is the complete archive of scripts for downloading AWS Lambda function code
 *  **Software_Security_Project.ipynb** is the project file itself
 *  **Testing Report.pdf** - this is a file containing a testing report
 
