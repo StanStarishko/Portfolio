@@ -12,6 +12,7 @@ It was completed in **Python** and demonstrates interaction with:
 *  **AWS Lambda** 
 *  **AWS S3**
 *  **Automated and manual testing**
-*  **OOP** *and* **Test Driven Development**
 
-and the use of basic technologies for **cyber-resilience** of applications
+and the use of 
+*  **OOP** *and* **Test Driven Development**
+*  basic technologies for **cyber-resilience** of applications
