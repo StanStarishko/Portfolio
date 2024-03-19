@@ -15,4 +15,4 @@ It was completed in **Python** and demonstrates interaction with:
 
 and the use of 
 *  **OOP** *and* **Test Driven Development**
-*  basic technologies for **cyber-resilience** of applications
+*  basic technologies for **Cyber Resilience** of applications
