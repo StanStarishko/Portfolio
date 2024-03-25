@@ -1,1 +1,1 @@
-##This directory stores reports that the application creates
+## This directory stores reports that the application creates
