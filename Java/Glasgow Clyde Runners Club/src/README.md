@@ -3,8 +3,8 @@
 
 ---
 ### Directories:
-- Data
-- Reports
+- ***/Data***
+- ***/Reports***
 
 must be created or copied.
 
