@@ -1,1 +1,1 @@
-[Package Documentation] (https://stanstarishko.github.io/RunnersClubJavaDocs/)
+## [Package Documentation](https://stanstarishko.github.io/RunnersClubJavaDocs/)
