@@ -12,3 +12,5 @@ The website to look fun but professional, be easy to use and work on all modern 
 ## Resourses
 - [Hosting Link](https://stanstarishko.github.io/abbington-farm/)
 - [Source Code](https://github.com/StanStarishko/abbington-farm)
+- ***Schema.png***
+- ***Wireframe.pdf***
