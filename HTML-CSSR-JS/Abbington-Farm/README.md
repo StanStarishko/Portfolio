@@ -14,3 +14,4 @@ The website to look fun but professional, be easy to use and work on all modern 
 - [Source Code](https://github.com/StanStarishko/abbington-farm)
 - **Schema.png**
 - **Wireframe.pdf**
+- **Test Logs.pdf**
