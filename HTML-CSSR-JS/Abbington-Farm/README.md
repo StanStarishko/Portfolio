@@ -9,8 +9,8 @@ Initially need to advertise the location, opening times, goods and services. The
 ## Website Requirements
 The website to look fun but professional, be easy to use and work on all modern browsers.
 
-## Resourses
+## Resources
 - [Hosting Link](https://stanstarishko.github.io/abbington-farm/)
 - [Source Code](https://github.com/StanStarishko/abbington-farm)
-- ***Schema.png***
-- ***Wireframe.pdf***
+- **Schema.png**
+- **Wireframe.pdf**
