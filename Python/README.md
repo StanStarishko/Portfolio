@@ -1,1 +1,13 @@
-
+# Resources
+- [/Software Security Project](https://github.com/StanStarishko/Portfolio/tree/main/Python/Software%20Security%20Project) is the final project for the **PDA Cyber Resilience *SCQF8*** certification.
+  - Includes:
+    - Cyber Resilience (SCQF8)
+    - Software Security (SCQF7)
+    - [Cisco Networking Academy Certificates](https://www.credly.com/users/starishko)
+  - Demonstrates skills:
+    - Product Design
+    - OOP by Python
+    - Test Driven Development
+    - Technologies for Cyber Resilience of applications
+    - Automated Testing Methods
+    - Automated Testing Methods
