@@ -13,3 +13,14 @@ My relocation to Scotland in September 2022 presented me with the challenge of e
 - [**AWS, APIs, *and* Cybersecurity**](https://github.com/StanStarishko/Portfolio/tree/main/Python/Software%20Security%20Project): Gained expertise in **Python** development, **QA MT/AT, TDD/BDD, encryption techniques**, deploying **LAMP servers**, and **CISCO Cyber Ops** (**PDA Cyber Resilience *SCQF8***, *ended* **March 2024**)
 - [**Java *and* Agile *Frameworks***](https://github.com/StanStarishko/Portfolio/tree/main/Java/Glasgow%20Clyde%20Runners%20Club): Specialised in **designing, project management**, *and* **manual testing** (**PDA Software Development *SCQF7***, *ended* **November 2023**)
 - **Python, [HTML, CSS](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS/Abbington-Farm)**: Focused on **designing, manual testing** *and* **website creation** (**NPA Software Development *SCQF6***, *ended* **July 2023**)
+
+# Technical Skills
+-	### Programming Languages:
+    1C (akin to Java, Python, C#, C/C++, Dynamics, and SalesForce), T-SQL, Java (Collections, Lambda Expressions), Python (Flask, Pandas, NumPy, Lambda Expressions), JavaScript, HTML, CSS, Turbo Pascal, Delphi, C/C++
+-	### Development Tools & Environments:
+    Delivering complex (ERP) enterprise-level systems, Writing secure and high-quality code, Full Life Cycle and Decisions Architecture, Object-Oriented  (OOP), Modular Programming, Software Development Life Cycle (SDLC), SOLID, QA MT/AT, Unit Testing, Test Driven Development (TDD), BDD, Design of architecture IT products, services and solutions, AWS, Lambda, S3, APIs, Jira, Trello, Data and system analyst
+-	### Databases:
+    MSSQL, MySQL, PostgreSQL, SQLite
+-	### Methodologies:
+    Agile, Scrum, Kanban, Waterfall, and Time, Team, Product, Project, and Crisis Management
+
