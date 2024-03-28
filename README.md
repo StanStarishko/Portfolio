@@ -24,3 +24,5 @@ My relocation to Scotland in September 2022 presented me with the challenge of e
 -	### Methodologies:
     Agile, Scrum, Kanban, Waterfall, and Time, Team, Product, Project, and Crisis Management
 
+  #### More details in my CV
+
