@@ -6,7 +6,7 @@ As a results-driven professional, recognized for reliability, ambition, and self
 
 # Briefly about my Experience
 
-With a solid background in IT product implementation and service delivery and a strong grasp of various project management methodologies, I am confident in my ability to contribute effectively to your team. My proficiency spans any **OOP and modular programming languages** at a ***foundational level*** but is deeper in [**Java**](https://github.com/StanStarishko/Portfolio/tree/main/Java), [**Python**](https://github.com/StanStarishko/Portfolio/tree/main/Python), [**HTML**, *and* **CSS**](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS).
+With a solid background in IT product implementation and service delivery and a strong grasp of various project management methodologies, I am confident in my ability to contribute effectively to your team. My proficiency spans any **OOP** and **modular programming languages** at a ***foundational level*** but is deeper in [**Java**](https://github.com/StanStarishko/Portfolio/tree/main/Java), [**Python**](https://github.com/StanStarishko/Portfolio/tree/main/Python), [**HTML**, *and* **CSS**](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS).
 
 # Recent Education in the UK
 My relocation to Scotland in September 2022 presented me with the challenge of enhancing my English language skills and updating my technical knowledge. Despite many years of working with the 1C platform, which is really akin to Java, Python, C#, C/C++, Dynamics, and SalesForce I have made significant strides in familiarising myself with Java and Python. My commitment to continuous learning is evidenced by my high completion rates on several short courses, where I have honed my skills in:
