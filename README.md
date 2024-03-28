@@ -1,6 +1,8 @@
 # Personal Statement
+---
 ### My name is *Stanislav Starishko*
 **and I live in the UK**
+---
 
 As a results-driven professional, recognized for reliability, ambition, and self-motivation, I specialize in researching and modernizing processes, procedures, and workflows. Leveraging collective experience and knowledge, I possess a strong technical foundation and exhibit self-discipline, thriving with minimal supervision. My outgoing nature is complemented by robust administrative and communication skills, coupled with excellent time management abilities to meet tight deadlines. As a resourceful problem solver, I confidently adapt to new situations. **Since April 2023**, I have been academically advancing my skills in ***Python, Java, Agile, Cyber Resilience, and APIs*** in the UK. Currently, I am actively seeking new challenges in the role of a **Software Engineer**
 
@@ -23,6 +25,6 @@ My relocation to Scotland in September 2022 presented me with the challenge of e
     MSSQL, MySQL, PostgreSQL, SQLite
 -	### Methodologies:
     Agile, Scrum, Kanban, Waterfall, and Time, Team, Product, Project, and Crisis Management
-
-  #### More details in my CV
+---
+  ### More details in my [CV](https://github.com/StanStarishko/Portfolio/blob/main/Stanislav%20Starishko%20CV.pdf)
 
