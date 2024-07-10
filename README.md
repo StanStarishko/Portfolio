@@ -18,6 +18,8 @@ My relocation to Scotland in September 2022 presented me with the challenge of e
 - [**Java *and* Agile *Frameworks***](https://github.com/StanStarishko/Portfolio/tree/main/Java/Glasgow%20Clyde%20Runners%20Club): Specialised in **designing, project management**, *and* **manual testing** (**PDA Software Development *SCQF7***, *ended* **November 2023**)
 - **Python, [HTML, CSS](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS/Abbington-Farm)**: Focused on **designing, manual testing** *and* **website creation** (**NPA Software Development *SCQF6***, *ended* **July 2023**)
 
+By the way, in July 2024 I started a short **Full Stack Developer** Course. I will study **Bootstrap, DOM, jQuery, Node.js, APIs, MongoDB,** and **Mongoose.** This course is ***SCQF8*** Level and ends in October 2024
+
 ---
 # Technical Skills
 -	### Programming Languages:
