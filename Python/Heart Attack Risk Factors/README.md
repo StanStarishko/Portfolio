@@ -1,5 +1,5 @@
 ## This directory contains the Software Security Project files:
-*  **Heart_Attack_Risk_Factors.ipynb** is the project file itself
+*  [**Heart_Attack_Risk_Factors.ipynb**](https://github.com/StanStarishko/Portfolio/blob/main/Python/Heart%20Attack%20Risk%20Factors/Heart_Attack_Risk_Factors.ipynb) is the project file itself
 *  **heart_attack_dataset.csv** - data frame
 
 
