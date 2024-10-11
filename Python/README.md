@@ -11,3 +11,18 @@
     - Technologies for Cyber Resilience of applications
     - Automated Testing Methods
     - Automated Testing Methods
+    - Time Management
+    - Agile
+
+- [/Heart Attack Risk Factors](https://github.com/StanStarishko/Portfolio/tree/main/Python/Heart%20Attack%20Risk%20Factors) is the final project for the **PDA Python for Data *SCQF8*** certification.
+  - Includes:
+    - Python for Data (SCQF8)
+    - Introduction and practice in ***R***
+  - Demonstrates skills:
+    - Product Design
+    - OOP by Python
+    - Test Driven Development
+    - Data Analytics
+    - Time Management
+    - Risk Management
+    - Agile
