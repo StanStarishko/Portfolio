@@ -9,7 +9,7 @@ As a results-driven professional, recognized for reliability, ambition, and self
 ---
 # Briefly about my Experience
 
-With a solid background in IT product implementation and service delivery and a strong grasp of various project management methodologies, I am confident in my ability to contribute effectively to your team. My proficiency spans any **OOP** and **modular programming languages** at a ***foundational level*** but is deeper in [**Java**](https://github.com/StanStarishko/Portfolio/tree/main/Java), [**Python**](https://github.com/StanStarishko/Portfolio/tree/main/Python), [**HTML**, *and* **CSS**](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS).
+With a solid background in IT product implementation and service delivery and a strong grasp of various project management methodologies, I am confident in my ability to contribute effectively to your team. My proficiency spans any **OOP** and **modular programming languages** at a ***foundational level*** but is deeper in [**Java**](https://github.com/StanStarishko/Portfolio/tree/main/Java), [**Python**](https://github.com/StanStarishko/Portfolio/tree/main/Python), [**HTML** *and* **CSS**](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS), [**Node.JS, REST API, MongoDB, Bootstrap**](https://github.com/StanStarishko/Kittoch-Car-Hire/tree/main).
 
 ---
 # Recent Education in the UK
