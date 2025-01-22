@@ -1,37 +1,54 @@
 # Personal Statement
 ---
-### My name is *Stanislav Starishko*
-**and I live in the UK**
+### My name is **Stanislav Starishko**,  
+and I am a **Software Engineer** based in the UK.
 
 ---
-As a results-driven professional, recognized for reliability, ambition, and self-motivation, I specialize in researching and modernizing processes, procedures, and workflows. Leveraging collective experience and knowledge, I possess a strong technical foundation and exhibit self-discipline, thriving with minimal supervision. My outgoing nature is complemented by robust administrative and communication skills, coupled with excellent time management abilities to meet tight deadlines. As a resourceful problem solver, I confidently adapt to new situations. **Since April 2023**, I have been academically advancing my skills in ***Python, Java, Agile, Cyber Resilience, and APIs*** in the UK. Currently, I am actively seeking new challenges in the role of a **Software Engineer**
+
+I am a highly motivated and results-driven professional with a proven track record of modernising processes, optimising workflows, and delivering innovative solutions. Known for my reliability, ambition, and self-discipline, I thrive in dynamic environments where I can leverage my technical expertise and problem-solving skills to drive impactful results. With a strong foundation in software development and a passion for continuous learning, I excel at adapting to new technologies and challenges with minimal supervision.
+
+Since relocating to the UK in 2022, I have been actively advancing my skills in **Python, Java, Agile methodologies, Cyber Resilience, and API integration** through academic courses and hands-on projects. My ability to quickly master new tools and frameworks, combined with my strong communication and time management skills, enables me to deliver high-quality solutions under tight deadlines. I am currently seeking new opportunities as a **Software Engineer** to contribute to innovative projects and further grow in a collaborative, forward-thinking environment.
 
 ---
-# Briefly about my Experience
 
-With a solid background in IT product implementation and service delivery and a strong grasp of various project management methodologies, I am confident in my ability to contribute effectively to your team. My proficiency spans any **OOP** and **modular programming languages** at a ***foundational level*** but is deeper in [**Java**](https://github.com/StanStarishko/Portfolio/tree/main/Java), [**Python**](https://github.com/StanStarishko/Portfolio/tree/main/Python), [**HTML** *and* **CSS**](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS), [**Node.JS, REST API, MongoDB, Bootstrap**](https://github.com/StanStarishko/Kittoch-Car-Hire/tree/main).
+### Briefly About My Experience
 
----
-# Recent Education in the UK
-My relocation to Scotland in September 2022 presented me with the challenge of enhancing my English language skills and updating my technical knowledge. Despite many years of working with the 1C platform, which is really akin to Java, Python, C#, C/C++, Dynamics, and SalesForce I have made significant strides in familiarising myself with Java and Python. My commitment to continuous learning is evidenced by my high completion rates on several short courses, where I have honed my skills in:
-- [**Full Stack Developer Kittoch-Car-Hire Project**](https://github.com/StanStarishko/Kittoch-Car-Hire/tree/main): in two weeks from 20 December 2024 to 5 January 2025 I studied and acquired practical skills in **Node.JS, REST API, MongoDB, Bootstrap**.
-- [**Python, R, Data**](https://github.com/StanStarishko/Portfolio/blob/main/Python/Heart%20Attack%20Risk%20Factors/Heart_Attack_Risk_Factors.ipynb): Learned how to utilise programming languages, specifically **Python** and **R**, to interrogate and display data for valuable business intelligence (**PDA Programming for Data *SCQF8***, ended **August 2024**)
-- [**AWS, APIs, *and* Cybersecurity**](https://github.com/StanStarishko/Portfolio/tree/main/Python/Software%20Security%20Project): Gained expertise in **Python** development, **QA MT/AT, TDD/BDD, encryption techniques**, deploying **LAMP servers**, and **CISCO Cyber Ops** (**PDA Cyber Resilience *SCQF8***, *ended* **March 2024**)
-- [**Java *and* Agile *Frameworks***](https://github.com/StanStarishko/Portfolio/tree/main/Java/Glasgow%20Clyde%20Runners%20Club): Specialised in **designing, project management**, *and* **manual testing** (**PDA Software Development *SCQF7***, *ended* **November 2023**)
-- **Python, [HTML, CSS](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS/Abbington-Farm)**: Focused on **designing, manual testing** *and* **website creation** (**NPA Software Development *SCQF6***, *ended* **July 2023**)
-
-By the way, in July 2024 I started a short **Full Stack Developer** Course. I will study **Bootstrap, DOM, jQuery, Node.js, APIs, MongoDB,** and **Mongoose.** This course is ***SCQF8*** Level and ends in October 2024
+With over two decades of experience in IT product implementation, service delivery, and project management, I bring a wealth of knowledge and expertise to any team. My technical proficiency spans **Object-Oriented Programming (OOP)** and **modular programming languages**, with a particular focus on **[Java](https://github.com/StanStarishko/Portfolio/tree/main/Java)**, **[Python](https://github.com/StanStarishko/Portfolio/tree/main/Python)**, **[HTML/CSS](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS)**, and **[Node.js, REST API, MongoDB, and Bootstrap](https://github.com/StanStarishko/Kittoch-Car-Hire/tree/main)**. I have a strong track record of delivering complex enterprise-level systems, including ERP solutions, and am skilled in writing secure, high-quality code.
 
 ---
-# Technical Skills
--	### Programming Languages:
-    1C (akin to Java, Python, C#, C/C++, Dynamics, and SalesForce), T-SQL, Java (Collections, Lambda Expressions), Python (Flask, Pandas, NumPy, Lambda Expressions), JavaScript, HTML, CSS, Turbo Pascal, Delphi, C/C++
--	### Development Tools & Environments:
-    Delivering complex (ERP) enterprise-level systems, Writing secure and high-quality code, Full Life Cycle and Decisions Architecture, Object-Oriented  (OOP), Modular Programming, Software Development Life Cycle (SDLC), SOLID, QA MT/AT, Unit Testing, Test Driven Development (TDD), BDD, Design of architecture IT products, services and solutions, AWS, Lambda, S3, APIs, Jira, Trello, Data and system analyst
--	### Databases:
-    MSSQL, MySQL, PostgreSQL, SQLite
--	### Methodologies:
-    Agile, Scrum, Kanban, Waterfall, and Time, Team, Product, Project, and Crisis Management
----
-  ### More details in my [CV](https://github.com/StanStarishko/Portfolio/blob/main/Stanislav%20Starishko%20CV.pdf)
 
+### Recent Education in the UK
+
+Relocating to Scotland in September 2022 presented me with the opportunity to enhance my English language skills and update my technical knowledge. Despite my extensive experience with the **1C platform** (which is akin to Java, Python, C#, C/C++, Dynamics, and Salesforce), I have embraced the challenge of mastering new technologies. My commitment to continuous learning is evident in my high completion rates across several courses, where I have honed my skills in:
+
+- **[Full Stack Developer Kittoch-Car-Hire Project](https://github.com/StanStarishko/Kittoch-Car-Hire/tree/main):** In just two weeks, I learned and applied **Node.js, REST API, MongoDB, and Bootstrap** to build a full-stack web application from scratch.
+- **[Python, R, and Data Analysis](https://github.com/StanStarishko/Portfolio/blob/main/Python/Heart%20Attack%20Risk%20Factors/Heart_Attack_Risk_Factors.ipynb):** I developed a **Python-based Heart Attack Risk Analysis Tool**, leveraging **Pandas** and **Matplotlib** to provide critical insights into patient data.
+- **[AWS, APIs, and Cybersecurity](https://github.com/StanStarishko/Portfolio/tree/main/Python/Software%20Security%20Project):** I gained expertise in **Python development, QA MT/AT, TDD/BDD, encryption techniques**, and deploying **LAMP servers**.
+- **[Java and Agile Frameworks](https://github.com/StanStarishko/Portfolio/tree/main/Java/Glasgow%20Clyde%20Runners%20Club):** I specialised in **designing, project management, and manual testing** using Agile methodologies.
+- **[HTML, CSS, and Website Creation](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS/Abbington-Farm):** I focused on **designing, manual testing, and creating responsive websites**.
+
+---
+
+### Technical Skills
+
+- **Programming Languages:**  
+  1C (akin to Java, Python, C#, C/C++, Dynamics, and Salesforce), T-SQL, Java (Collections, Lambda Expressions), Python (Flask, Pandas, NumPy, Lambda Expressions), JavaScript, HTML, CSS, Turbo Pascal, Delphi, C/C++
+
+- **Development Tools & Environments:**  
+  Delivering complex enterprise-level systems (ERP), writing secure and high-quality code, Full Life Cycle and Decisions Architecture, Object-Oriented Programming (OOP), Modular Programming, Software Development Life Cycle (SDLC), SOLID, QA MT/AT, Unit Testing, Test-Driven Development (TDD), BDD, AWS (Lambda, S3), APIs, Jira, Trello, Data and System Analysis
+
+- **Databases:**  
+  MSSQL, MySQL, PostgreSQL, SQLite
+
+- **Methodologies:**  
+  Agile, Scrum, Kanban, Waterfall, Time Management, Team Management, Product Management, Project Management, Crisis Management
+
+---
+
+### More details in my [CV](https://github.com/StanStarishko/Portfolio/blob/main/Stanislav%20Starishko%20CV.pdf)
+
+---
+
+### Why Work With Me?
+
+I bring a unique combination of **technical expertise**, **problem-solving skills**, and a **passion for continuous learning**. My ability to quickly adapt to new technologies, coupled with my experience in delivering complex projects, makes me a valuable asset to any team. I am eager to contribute to innovative solutions that drive real-world impact and look forward to collaborating with like-minded professionals.
