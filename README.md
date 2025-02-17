@@ -7,7 +7,7 @@ and I am a **Software Engineer** based in the UK.
 
 I am a highly motivated and results-driven professional with a proven track record of modernising processes, optimising workflows, and delivering innovative solutions. Known for my reliability, ambition, and self-discipline, I thrive in dynamic environments where I can leverage my technical expertise and problem-solving skills to drive impactful results. With a strong foundation in software development and a passion for continuous learning, I excel at adapting to new technologies and challenges with minimal supervision.
 
-Since relocating to the UK in 2022, I have been actively advancing my skills in **Python, Java, Agile methodologies, Cyber Resilience, and API integration** through academic courses and hands-on projects. My ability to quickly master new tools and frameworks, combined with my strong communication and time management skills, enables me to deliver high-quality solutions under tight deadlines. I am currently seeking new opportunities as a **Software Engineer** to contribute to innovative projects and further grow in a collaborative, forward-thinking environment.
+Since relocating to the UK in 2022, I have been actively advancing my skills in **Python, Java, JavaScript, Node.js, Agile methodologies, Cyber Resilience, and API integration** through academic courses and hands-on projects. My ability to quickly master new tools and frameworks, combined with my strong communication and time management skills, enables me to deliver high-quality solutions under tight deadlines. I am currently seeking new opportunities as a **Software Engineer** to contribute to innovative projects and further grow in a collaborative, forward-thinking environment.
 
 ---
 
