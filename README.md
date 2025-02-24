@@ -19,7 +19,7 @@ With over two decades of experience in IT product implementation, service delive
 
 ### Recent Education in the UK
 
-Relocating to Scotland in September 2022 presented me with the opportunity to enhance my English language skills and update my technical knowledge. Despite my extensive experience with the **1C platform** (which is akin to Java, Python, C#, C/C++, Dynamics, and Salesforce), I have embraced the challenge of mastering new technologies. My commitment to continuous learning is evident in my high completion rates across several courses, where I have honed my skills in:
+Relocated to Scotland in September 2022 presented me with the opportunity to enhance my English language skills and update my technical knowledge. Despite my extensive experience with the **1C platform** (which is akin to Java, Python, C#, C/C++, Dynamics, and Salesforce), I have embraced the challenge of mastering new technologies. My commitment to continuous learning is evident in my high completion rates across several courses, where I have honed my skills in:
 
 - **[Full Stack Developer Kittoch-Car-Hire Project](https://github.com/StanStarishko/Kittoch-Car-Hire/tree/main):** In just two weeks, I learned and applied **Node.js, REST API, MongoDB, and Bootstrap** to build a full-stack web application from scratch.
 - **[Python, R, and Data Analysis](https://github.com/StanStarishko/Portfolio/blob/main/Python/Heart%20Attack%20Risk%20Factors/Heart_Attack_Risk_Factors.ipynb):** I developed a **Python-based Heart Attack Risk Analysis Tool**, leveraging **Pandas** and **Matplotlib** to provide critical insights into patient data.
