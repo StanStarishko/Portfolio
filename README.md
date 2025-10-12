@@ -1,68 +1,159 @@
-# Personal Statement
----
-### My name is **Stanislav Starishko**,  
-and I am a **Software Engineer** based in the UK.
+# Hey 👋 I'm Stanislav
+
+**Software Engineer** building stuff in Glasgow, Scotland
+
+💼 [LinkedIn](https://www.linkedin.com/in/starishko/)
 
 ---
 
-I am a highly motivated and results-driven professional with a proven track record of modernising processes, optimising workflows, and delivering innovative solutions. Known for my reliability, ambition, and self-discipline, I thrive in dynamic environments where I can leverage my technical expertise and problem-solving skills to drive impactful results. With a strong foundation in software development and a passion for continuous learning, I excel at adapting to new technologies and challenges with minimal supervision.
+## Quick Story
 
-Since relocating to the UK in 2022, I have been actively advancing my skills in **Python, Java, JavaScript, Node.js, Agile methodologies, Cyber Resilience, and API integration** through academic courses and hands-on projects. My ability to quickly master new tools and frameworks, combined with my strong communication and time management skills, enables me to deliver high-quality solutions under tight deadlines. I am currently seeking new opportunities as a **Software Engineer** to contribute to innovative projects and further grow in a collaborative, forward-thinking environment.
+Moved from Ukraine to Scotland in 2022 when the war started. Career restart.
 
----
+Built tons of enterprise software on **1C platform** (similar to Java/Python/.NET ecosystem) - ERP systems, financial platforms, logistics tools. Mostly boring corporate stuff, but paid the bills.
 
-### Briefly About My Experience
+Now retraining in modern tech because honestly, the old stack was getting dull. Currently Year 2 of HND Software Engineering at Glasgow Clyde College.
 
-With over two decades of experience in IT product implementation, service delivery, and project management, I bring a wealth of knowledge and expertise to any team. My technical proficiency spans **Object-Oriented Programming (OOP)** and **modular programming languages**, with a particular focus on **[Java](https://github.com/StanStarishko/Portfolio/tree/main/Java)**, **[Python](https://github.com/StanStarishko/Portfolio/tree/main/Python)**, **[HTML/CSS](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS)**, **[Node.js, REST API, MongoDB, and Bootstrap](https://github.com/StanStarishko/Node-RESTful-MongoDB-Bootstrap)**. I have a strong track record of delivering complex enterprise-level systems, including ERP solutions, and am skilled in writing secure, high-quality code.
-
----
-
-### Recent Education in the UK
-
-Relocated to Scotland in September 2022 presented me with the opportunity to enhance my English language skills and update my technical knowledge. Despite my extensive experience with the **1C platform** (which is akin to Java, Python, C#, C/C++, Dynamics, and Salesforce), I have embraced the challenge of mastering new technologies. My commitment to continuous learning is evident in my high completion rates across several courses, where I have honed my skills in:
-
-- **[Three Full Stack Project](https://github.com/StanStarishko/Node-RESTful-MongoDB-Bootstrap):** In just two weeks, I learned and applied **Node.js, REST API, MongoDB, and Bootstrap** to build a full-stack web application from scratch.
-- **[Python, R, and Data Analysis](https://github.com/StanStarishko/Portfolio/blob/main/Python/Heart%20Attack%20Risk%20Factors/Heart_Attack_Risk_Factors.ipynb):** I developed a **Python-based Heart Attack Risk Analysis Tool**, leveraging **Pandas** and **Matplotlib** to provide critical insights into patient data.
-- **[AWS, APIs, and Cybersecurity](https://github.com/StanStarishko/Portfolio/tree/main/Python/Software%20Security%20Project):** I gained expertise in **Python development, QA MT/AT, TDD/BDD, encryption techniques**, and deploying **LAMP servers**.
-- **[Java and Agile Frameworks](https://github.com/StanStarishko/Portfolio/tree/main/Java/Glasgow%20Clyde%20Runners%20Club):** I specialised in **designing, project management, and manual testing** using Agile methodologies.
-- **[HTML, CSS, and Website Creation](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS/Abbington-Farm):** I focused on **designing, manual testing, and creating responsive websites**.
+**How I work:** Use AI tools to code faster - I'm not stupid, why type everything manually? But the architecture, design decisions, and "does this actually make sense?" - that's all me. Think of AI as a junior dev who types really fast but needs supervision.
 
 ---
 
-### Technical Skills
+## What I've Built Recently
 
-- **Backend:**  
-  T-SQL, R, Java (Collections, Lambda Expressions), Python (Flask, Boto3, Pandas, NumPy, Matplotlib, Seaborn, Lambda Expressions), Node.js, AWS (Lambda, S3), RESTful APIs, C, C++
-  
-- **Frontend:**  
-  JavaScript, HTML, CSS
+### 🤖 [AI-Powered UX Audit Tool](https://github.com/StanStarishko/Risidio-Stage2)
+Built this in **6 hours** for a technical assessment (yes, with coffee breaks). Full-stack AI app that analyses websites using GPT-4, generates recommendations, visualises data. Serverless deployment on Vercel.
 
-- **Databases:**  
-  MSSQL, MySQL, PostgreSQL, SQLite, MongoDB
+**Tech:** Next.js, TypeScript, OpenAI GPT-4, Tailwind CSS
 
-- **Development Tools & Environments:**
-  Secure coding, Solutions Architecture, OOP, Modular Programming, AsyncIO, SDLC, MVC, SOLID, QA (MT/AT), Unit Testing, TDD, BDD,  Jira, Trello
-
-- **Methodologies:**  
-  Agile (Scrum, Kanban), Waterfall, optimising adaptability and resource allocation
+**The challenge:** Show you can prototype fast without sacrificing quality. Delivered production-ready code with proper error handling, responsive design, and decent documentation.
 
 ---
 
-### Core Competencies
--	**Rapid Learner:** Continuously expands knowledge in emerging technologies and development practices
--	**Analytical & Problem Solving:** Combines strategic, out-of-the-box thinking with innovative approaches
--	**Collaboration:** Skilled in teamwork and Agile methodology to deliver customer-focused solutions
--	**Crisis Management:** Adapts quickly and maintains focus under pressure to resolve urgent issues
--	**Detail-Oriented:** Ensures accuracy and precision in all technical tasks and project documentation
--	**Creative Solutions:** Focuses on delivering efficient, client-centered innovations
+### 🛒 [E-Commerce Backend API](https://github.com/StanStarishko/BackForCatalog)
+Production-ready RESTful backend with OAuth 2.0, JWT tokens, rate limiting, comprehensive tests. Because building secure auth properly is important.
 
+**Tech:** Node.js, Fastify, TypeScript, OAuth 2.0, JWT
+
+**What's good about it:** Proper authentication flow, not the "store password in localStorage" nonsense. Serverless deployment, actual tests, sensible error handling.
 
 ---
 
-### More details in my [CV](https://github.com/StanStarishko/Portfolio/blob/main/Stanislav%20Starishko%20CV.pdf)
+### 🌐 [Full-Stack Web Applications Trilogy](https://github.com/StanStarishko/Node-RESTful-MongoDB-Bootstrap)
+Three projects: car rental system, course management, product catalogue. 
+
+Learned Node.js ecosystem and delivered **3 working apps in 2 weeks** (course timeline said 3 months - I got impatient).
+
+**Tech:** Node.js, MongoDB, Express, Bootstrap
+
+**What I learned:** Async JavaScript doesn't bite if you understand it. MongoDB is fine until you need complex queries. Bootstrap makes things look decent fast.
 
 ---
 
-### Why Work With Me?
+### 📊 [Medical Data Analysis Tool](https://github.com/StanStarishko/Portfolio/tree/main/Python/Heart%20Attack%20Risk%20Factors)
+Heart attack risk analysis with patient data processing, statistical analysis, and visualisation.
 
-I bring a unique combination of **technical expertise**, **problem-solving skills**, and a **passion for continuous learning**. My ability to quickly adapt to new technologies, coupled with my experience in delivering complex projects, makes me a valuable asset to any team. I am eager to contribute to innovative solutions that drive real-world impact and look forward to collaborating with like-minded professionals.
+**Tech:** Python, Pandas, NumPy, Matplotlib
+
+**Takeaway:** Data science is 80% cleaning data, 15% trying to make sense of it, 5% making pretty charts.
+
+---
+
+## Tech I Actually Use
+
+**Languages:** Python, Java, JavaScript/TypeScript  
+**Backend:** Node.js, Next.js, Express, FastAPI, Flask  
+**Frontend:** React, Tailwind CSS, Bootstrap  
+**Databases:** MongoDB, PostgreSQL, MySQL, MSSQL  
+**Cloud:** AWS (Lambda, S3, API Gateway), Vercel  
+**Tools:** Git, REST APIs, OAuth 2.0, JWT, AI coding assistants
+
+---
+
+## Other Projects Worth Checking
+
+- [Glasgow Clyde Runners Club](https://github.com/StanStarishko/Portfolio/tree/main/Java/Glasgow%20Clyde%20Runners%20Club) - Java app for membership management
+- [Software Security Project](https://github.com/StanStarishko/Portfolio/tree/main/Python/Software%20Security%20Project) - Python app with Google Maps API, AWS Lambda + S3 serverless storage, threat modeling, secure API key handling, automated testing
+- [Abbington Farm](https://github.com/StanStarishko/Portfolio/tree/main/HTML-CSSR-JS/Abbington-Farm) - Responsive website, nothing fancy
+- [Dnipro City](https://github.com/StanStarishko/CYF-ITD-HomeTown) - CodeYourFuture project
+
+---
+
+## Currently Learning
+
+**Actively using:** CI/CD pipelines, advanced React patterns  
+**Improving:** Microservices architecture (used it before, now modernising approach)  
+**Want to learn:** Kubernetes, Spring Boot
+
+Also trying to understand why JavaScript has 47 different ways to handle async operations.
+
+---
+
+## Quick Facts
+
+```
+🎓 HND Software Engineering (Year 2)
+🚀 4 production projects in 2024-2025
+⚡ Built AI tool in 6 hours
+📚 Learned Node.js in 2 weeks (course said 3 months)
+🇺🇦 From Ukraine, living in Scotland since 2022
+💼 15 years enterprise development experience
+🎯 Looking for Software Engineer roles (junior to mid-level)
+```
+
+---
+
+## Education & Certs
+
+**Glasgow Clyde College** - HND in Software Engineering (2024-2026)
+
+**Professional Qualifications:**
+- PDA in Full Stack Development (SCQF Level 8)
+- PDA in Cyber Resilience (SCQF Level 8)
+- PDA in Data Programming (SCQF Level 8)
+- PDA in Software Development (SCQF Level 7)
+- CyberOps Associate (Cisco)
+
+Basically spent the last 2 years collecting certificates and actually learning things.
+
+---
+
+## Community Stuff
+
+Volunteer at Glasgow Film Theatre for 2+ years (yes, I check tickets and clean up after shows - keeps me grounded).
+
+Also volunteer with Ukrainian Employment Integration Project and CodeYourFuture alumnus.
+
+---
+
+## Languages
+
+🇬🇧 English (B2 - good enough for arguing about code reviews)  
+🇺🇦 Ukrainian (Native)  
+🇷🇺 Russian (Native)
+
+---
+
+## What I'm Looking For
+
+Software Engineer roles where:
+- Fast learning matters more than having 5 years in the exact tech stack
+- Problem-solving is valued
+- People actually review code and care about quality
+- Junior/mid-level positions, apprenticeships, or graduate schemes
+
+Not interested in:
+- "Rock star ninja guru" job descriptions
+- Places that think 60-hour weeks are normal
+- Companies allergic to modern development practices
+
+---
+
+📍 Glasgow, Scotland, UK  
+✅ Legally authorised to work in UK  
+🚗 Driving Licence (Category B)
+
+---
+
+**Let's build something useful** 🚀
+
+*Last updated: October 2025*
