@@ -21,11 +21,16 @@ Now retraining in modern tech because honestly, the old stack was getting dull. 
 ## What I've Built Recently
 
 ### 🦁 [Clyde Conservation Management System](https://github.com/StanStarishko/ClydeConservation) 
+
+[![Java](https://img.shields.io/badge/Java-25-orange?logo=java)](https://www.oracle.com/java/)
+[![JUnit](https://img.shields.io/badge/JUnit-5-green?logo=junit5)](https://junit.org/junit5/)
+[![Maven](https://img.shields.io/badge/Maven-3.9-blue?logo=apache-maven)](https://maven.apache.org/)
+[![Tests](https://img.shields.io/badge/Tests-100%25-success)](docs/)
+[![TDD](https://img.shields.io/badge/Methodology-TDD-blueviolet)](docs/Testing%20Strategy%20and%20Results.pdf)
+
 **The project that taught me to think like an engineer, not just write code.**
 
 Conservation management system with 100% test success (307 tests) achieved through 10 documented iterations. Started at 77.9% success with architectural issues, ended with clean 4-layer architecture and every test passing.
-
-**Tech:** Java 25, JUnit 5, Maven, XML/JSON persistence, SOLID principles
 
 **What makes this interesting:**
 - **Made the hard call:** Deleted 42 working tests because they were duplicates, tested implementation details, or added noise. Documented why for each one.
