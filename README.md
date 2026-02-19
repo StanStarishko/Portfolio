@@ -20,6 +20,24 @@ Now retraining in modern tech because honestly, the old stack was getting dull. 
 
 ## What I've Built Recently
 
+### 🦁 [Clyde Conservation Management System](https://github.com/StanStarishko/ClydeConservation) 
+**The project that taught me to think like an engineer, not just write code.**
+
+Conservation management system with 100% test success (307 tests) achieved through 10 documented iterations. Started at 77.9% success with architectural issues, ended with clean 4-layer architecture and every test passing.
+
+**Tech:** Java 25, JUnit 5, Maven, XML/JSON persistence, SOLID principles
+
+**What makes this interesting:**
+- **Made the hard call:** Deleted 42 working tests because they were duplicates, tested implementation details, or added noise. Documented why for each one.
+- **Fixed architecture, not symptoms:** When Round 06 hit 13 new failures, spent hours debugging before realizing validators were doing existence checks (wrong layer). Refactored → 13 tests passed immediately.
+- **Full transparency:** 10 HTML test logs showing every failure, every fix, every decision. No hiding mistakes.
+
+**What I actually learned:** Professional development isn't about perfect code on first attempt - it's about systematic problem-solving, making tough decisions (like deleting working code), and backing everything with evidence. The 42 deleted tests took more courage than writing 100 new ones.
+
+📚 [Documentation Portal](https://stanstarishko.github.io/ClydeConservation/)
+
+---
+
 ### 🤖 [AI-Powered UX Audit Tool](https://github.com/StanStarishko/Risidio-Stage2)
 Built this in **6 hours** for a technical assessment (yes, with coffee breaks). Full-stack AI app that analyses websites using GPT-4, generates recommendations, visualises data. Serverless deployment on Vercel.
 
@@ -65,6 +83,7 @@ Heart attack risk analysis with patient data processing, statistical analysis, a
 **Frontend:** React, Tailwind CSS, Bootstrap  
 **Databases:** MongoDB, PostgreSQL, MySQL, MSSQL  
 **Cloud:** AWS (Lambda, S3, API Gateway), Vercel  
+**Testing:** JUnit 5, Jest, PyTest - TDD methodology  
 **Tools:** Git, REST APIs, OAuth 2.0, JWT, AI coding assistants
 
 ---
@@ -92,13 +111,27 @@ Also trying to understand why JavaScript has 47 different ways to handle async o
 
 ```
 🎓 HND Software Engineering (Year 2)
-🚀 4 production projects in 2024-2025
+🚀 5 production projects in 2024-2025
+✅ 100% test success on latest project (307/307 tests)
 ⚡ Built AI tool in 6 hours
 📚 Learned Node.js in 2 weeks (course said 3 months)
+🧪 TDD practitioner - test first, code second
 🇺🇦 From Ukraine, living in Scotland since 2022
 💼 15 years enterprise development experience
 🎯 Looking for Software Engineer roles (junior to mid-level)
 ```
+
+---
+
+## What Sets Me Apart
+
+**I delete code:** Removed 42 working tests from my latest project because they were noise. Each deletion documented with reasoning. Quality over quantity isn't just a slogan.
+
+**I document failures:** My [Conservation project](https://github.com/StanStarishko/ClydeConservation) shows all 10 testing rounds - including the regressions, the architectural mistakes, and the hours spent debugging wrong solutions. Hiding mistakes teaches nothing.
+
+**I make trade-offs:** Academic deadline approaching, 349 tests, 42 providing questionable value. Made the tough call: delete them based on evidence (duplicates, implementation details, library edge cases). Backed every decision with data.
+
+**I question assumptions:** When test patterns repeated, didn't just fix symptoms - questioned if validators should check registry existence (they shouldn't - wrong layer). Architecture matters more than quick fixes.
 
 ---
 
@@ -137,14 +170,16 @@ Also volunteer with Ukrainian Employment Integration Project and CodeYourFuture 
 
 Software Engineer roles where:
 - Fast learning matters more than having 5 years in the exact tech stack
-- Problem-solving is valued
+- Problem-solving is valued over just shipping features
 - People actually review code and care about quality
+- Making tough engineering decisions is expected, not punished
 - Junior/mid-level positions, apprenticeships, or graduate schemes
 
 Not interested in:
 - "Rock star ninja guru" job descriptions
 - Places that think 60-hour weeks are normal
 - Companies allergic to modern development practices
+- Environments where questioning design decisions is seen as negativity
 
 ---
 
@@ -156,4 +191,4 @@ Not interested in:
 
 **Let's build something useful** 🚀
 
-*Last updated: October 2025*
+*Last updated: February 2026*
