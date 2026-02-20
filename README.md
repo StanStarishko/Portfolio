@@ -116,7 +116,7 @@ Also trying to understand why JavaScript has 47 different ways to handle async o
 
 ```
 🎓 HND Software Engineering (Year 2)
-🚀 5 production projects in 2024-2025
+🚀 5 production projects in 2024-2026
 ✅ 100% test success on latest project (307/307 tests)
 ⚡ Built AI tool in 6 hours
 📚 Learned Node.js in 2 weeks (course said 3 months)
