@@ -20,6 +20,22 @@ Now retraining in modern tech because honestly, the old stack was getting dull. 
 
 ## What I've Built Recently
 
+### 🏗️ [Equipment and Resource Booking Management System](https://github.com/StanStarishko/equipment-rental-system)
+
+![Java](https://img.shields.io/badge/Java-25-blue?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-6DB33F?logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-5-25A162?logo=junit5&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-64%20passed-brightgreen)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.1-005F0F?logo=thymeleaf&logoColor=white)
+![H2](https://img.shields.io/badge/H2-In--Memory-1021FF)
+
+Full-stack web application for managing equipment bookings within a small organisation. Built with Spring Boot, Thymeleaf and H2 Database. Features conflict detection, automatic status updates, 8 enforced business rules and 64 automated tests. Designed around a real problem I observed while volunteering at Glasgow Film Theatre and Shaw Trust.
+
+**[Live Demo](https://stan-equipment-rental-system.onrender.com)** · **[Documentation](https://stanstarishko.github.io/equipment-rental-system/)**
+
+---
+
 ### 🦁 [Clyde Conservation Management System](https://github.com/StanStarishko/ClydeConservation) 
 
 [![Java](https://img.shields.io/badge/Java-25-orange?logo=java)](https://www.oracle.com/java/)
