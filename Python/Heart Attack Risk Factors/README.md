@@ -14,3 +14,9 @@ It was completed in **Python** and demonstrates interaction with:
 and the use of 
 - [**4 weeks of practice**](https://github.com/StanStarishko/python-programming-for-data/tree/main/Worksheets) using Python and R for data analysis
 - [**including a mini-project**](https://github.com/StanStarishko/python-programming-for-data/blob/main/Worksheets/10_2_Movies_Project.ipynb) that served as a prototype core for the final project, which allowed it to be completed rapidly
+
+---
+
+## What came next
+
+This project introduced me to data analytics in Python. The next step in the same direction was [Climate Impact Deep Learning Models](https://github.com/StanStarishko/climate-impact-ml), where I moved from descriptive analytics to predictive deep learning, with two end-to-end TensorFlow/Keras models for Arctic Sea Ice forecasting and Forest Fire detection.
