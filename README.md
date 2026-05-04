@@ -20,6 +20,24 @@ Now retraining in modern tech because honestly, the old stack was getting dull. 
 
 ## What I've Built Recently
 
+### 🌡️ [Climate Impact Deep Learning Models](https://github.com/StanStarishko/climate-impact-ml)
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Functional%20API-D00000?logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikit-learn&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-Notebook-F9AB00?logo=googlecolab&logoColor=white)
+
+Two deep learning models on the same TensorFlow/Keras backbone, solving completely different problems: Arctic Sea Ice extent regression (test MAPE 1.27%) and Forest Fire image classification on 1:80 imbalanced data (F1 0.6422 on the fire class). About 285K parameters per model.
+
+**What's good about it:** Caught two non-obvious bugs in the assessment template (data leakage in standardisation, non-stratified split under heavy imbalance) and fixed them with documented reasoning. The Forest Fire deploy decision is conditional, not a tick-box pass: this model belongs as a screening layer in a multi-stage pipeline, not as a standalone fire detector.
+
+**Tech:** Python, TensorFlow/Keras, scikit-learn, NumPy, Matplotlib, Seaborn, Google Colab
+
+**[Open in Colab](https://colab.research.google.com/github/StanStarishko/climate-impact-ml/blob/main/dl_machine_learning_assessment.ipynb)** · The notebook does not render reliably in GitHub due to size, so Colab is the intended viewer.
+
+---
+
 ### 🏗️ [Equipment and Resource Booking Management System](https://github.com/StanStarishko/equipment-rental-system)
 
 ![Java](https://img.shields.io/badge/Java-25-blue?logo=openjdk)
@@ -95,6 +113,8 @@ Heart attack risk analysis with patient data processing, statistical analysis, a
 
 **Takeaway:** Data science is 80% cleaning data, 15% trying to make sense of it, 5% making pretty charts.
 
+**What came next:** Same skills, several levels up, in [Climate Impact Deep Learning Models](https://github.com/StanStarishko/climate-impact-ml).
+
 ---
 
 ## Tech I Actually Use
@@ -132,7 +152,7 @@ Also trying to understand why JavaScript has 47 different ways to handle async o
 
 ```
 🎓 HND Software Engineering (Year 2)
-🚀 5 production projects in 2024-2026
+🚀 6 production projects in 2024-2026
 ✅ 100% test success on latest project (307/307 tests)
 ⚡ Built AI tool in 6 hours
 📚 Learned Node.js in 2 weeks (course said 3 months)
@@ -212,4 +232,4 @@ Not interested in:
 
 **Let's build something useful** 🚀
 
-*Last updated: February 2026*
+*Last updated: May 2026*
