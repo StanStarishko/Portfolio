@@ -12,7 +12,7 @@ Moved from Ukraine to Scotland in 2022 when the war started. Career restart.
 
 Built tons of enterprise software on **1C platform** (similar to Java/Python/.NET ecosystem) - ERP systems, financial platforms, logistics tools. Mostly boring corporate stuff, but paid the bills.
 
-Now retraining in modern tech because honestly, the old stack was getting dull. Currently Year 2 of HND Software Engineering at Glasgow Clyde College.
+Now retraining in modern tech because honestly, the old stack was getting dull. Currently Year 3 of BSc/BSc (Hons) Software Development at Glasgow Caledonian University.
 
 **How I work:** Use AI tools to code faster - I'm not stupid, why type everything manually? But the architecture, design decisions, and "does this actually make sense?" - that's all me. Think of AI as a junior dev who types really fast but needs supervision.
 
